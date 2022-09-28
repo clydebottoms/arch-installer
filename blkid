@@ -1,1 +1,0 @@
-/dev/nvme0n1p1: UUID="9745-3692" BLOCK_SIZE="512" TYPE="vfat" PARTUUID="88a8ffd5-1605-c84c-a806-a114f859726a" /dev/nvme0n1p2: UUID="39de0de1-f5f2-412d-9b0f-aedd377fb519" BLOCK_SIZE="512" TYPE="xfs" PARTUUID="f46066ae-51c8-9942-9f0a-2c8ecbf6fa31" /dev/zram0: LABEL="zram0" UUID="7ba19dfd-42f8-4e64-ab16-92cbe8ba42d4" TYPE="swap"
